@@ -1,7 +1,7 @@
 # fms-api-utilities
 
-[![Build Status](https://travis-ci.com/Luidog/fms-api-utilities.svg?branch=master)](https://travis-ci.com/Luidog/fms-api-utilities)[![Known Vulnerabilities](https://snyk.io/test/github/Luidog/fms-api-utilities/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Luidog/fms-api-utilities?targetFile=package.json)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)![GitHub issues](https://img.shields.io/github/issues/luidog/fms-api-utilities.svg) ![GitHub](https://img.shields.io/github/license/luidog/fms-api-utilities.svg)
+[![Build Status](https://travis-ci.com/Luidog/fms-api-utilities.svg?branch=master)](https://travis-ci.com/Luidog/fms-api-utilities) [![Known Vulnerabilities](https://snyk.io/test/github/Luidog/fms-api-utilities/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Luidog/fms-api-utilities?targetFile=package.json)
+ ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) ![GitHub issues](https://img.shields.io/github/issues/luidog/fms-api-utilities.svg) ![GitHub](https://img.shields.io/github/license/luidog/fms-api-utilities.svg)
 
 Utilities designed to make working with the FileMaker Data API easier. 
 
