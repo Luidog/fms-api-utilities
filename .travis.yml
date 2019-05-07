@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+- node
+install:
+- npm install
+- npm install marpat
+before_script:
+- node --version
+- npm --version
+after_success: npm run coverage
