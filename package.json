@@ -23,7 +23,7 @@
     "url": "https://github.com/Luidog/fms-api-utilities/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.20"
   },
   "devDependencies": {
     "chai": "^4.2.0",
